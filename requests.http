@@ -22,7 +22,7 @@ Content-Type: application/json
   "autor": "Zafon",
   "isbn": "9789878000107",
   "editorial": "La neta",
-  "paginas": "256"
+  "paginas": "123"
 }
 
 ###
